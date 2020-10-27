@@ -1,3 +1,5 @@
+
+
 <h1 align="center">
 PORTIFOLIO
 </h1>
@@ -34,6 +36,8 @@ Layout
 Neste curso de web design, nós alunos de forma 100% prática a linguagem universal da internet: HTML/CSS e aplicaraplicamos nossos conhecimentos na construção de um PORTFOLIO ONLINE super elegante e RESPONSIVO, com versões para computador e celular. 
 
 Além disso, este curso serviu como porta de entrada para outras linguagens de programação, como JAVASCRIPT e PHP, conhecimentos essenciais no mercado atual.
+
+<img alt="portifolio" src="https://ik.imagekit.io/atnyozbx9v/Untitled-Project-_-Made-with-Clipchamp-_3__9aQ25xOPu.gif">
 
 
 
