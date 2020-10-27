@@ -23,7 +23,7 @@ Layout
 
 ![Alt Text](https://ik.imagekit.io/atnyozbx9v/Untitled-Project-_-Made-with-Clipchamp-_2__2A6N3bcXU.gif)
 
-
+<img src="https://ik.imagekit.io/atnyozbx9v/Untitled-Project-_-Made-with-Clipchamp-_2__2A6N3bcXU.gif" width="80" height="80" />
 
 
 ### 🚀 TECNOLOGIAS
