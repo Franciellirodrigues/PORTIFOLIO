@@ -20,9 +20,7 @@ Layout
   
 <img alt="portifolio" src="https://ik.imagekit.io/atnyozbx9v/5b4ae6caf53640619c648b39dd5bc9ec_25_1600_bQWm_CIgo.jpg">
 
-<img alt="gifHappy" src="https://ik.imagekit.io/atnyozbx9v/happy.mp4_tJMO99Q3c.gif">
-
-<img alt="gifportifolio" src="https://ik.imagekit.io/atnyozbx9v/Untitled-Project-_-Made-with-Clipchamp-_2__2A6N3bcXU.gif">
+<img alt="gifHappy" src="https://ik.imagekit.io/atnyozbx9v/Untitled-Project-_-Made-with-Clipchamp-_1__dAOTYTXDc.gif">
 
 
 </a>
