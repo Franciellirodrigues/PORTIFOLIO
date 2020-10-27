@@ -1,5 +1,3 @@
-
-
 <h1 align="center">
 PORTIFOLIO
 </h1>
@@ -23,7 +21,8 @@ Layout
 <img alt="portifolio" src="https://ik.imagekit.io/atnyozbx9v/portfinal_a7keFR07UJ.jpg"></a>
 
 
-<video src="https://ik.imagekit.io/atnyozbx9v/Untitled-Project-_-Made-with-Clipchamp-_3__9aQ25xOPu.gif"></video>
+<img alt="portifolio" src="https://ik.imagekit.io/atnyozbx9v/Untitled-Project-_-Made-with-Clipchamp-_3__9aQ25xOPu.gif"></a>
+
 
 
 ### 🚀 TECNOLOGIAS
