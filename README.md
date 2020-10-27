@@ -1,3 +1,5 @@
+
+
 <h1 align="center">
 PORTIFOLIO
 </h1>
@@ -18,10 +20,10 @@ Projeto
 Layout
 </p> <br>
   
-<img alt="portifolio" src="https://ik.imagekit.io/atnyozbx9v/5b4ae6caf53640619c648b39dd5bc9ec_25_1600_bQWm_CIgo.jpg">
-</a>
+<img alt="portifolio" src="https://ik.imagekit.io/atnyozbx9v/5b4ae6caf53640619c648b39dd5bc9ec_25_1600_bQWm_CIgo.jpg"></a>
 
-![](https://ik.imagekit.io/atnyozbx9v/Untitled-Project-_-Made-with-Clipchamp-_3__9aQ25xOPu.gif)
+
+<img alt="portifolio" src="https://ik.imagekit.io/atnyozbx9v/Untitled-Project-_-Made-with-Clipchamp-_3__9aQ25xOPu.gif"></a>
 
 
 
