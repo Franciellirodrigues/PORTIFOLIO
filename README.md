@@ -20,8 +20,8 @@ Projeto
 Layout
 </p> <br>
   
-<img alt="portifolio" src="https://ik.imagekit.io/atnyozbx9v/portfinal_a7keFR07UJ.jpg">
-
+<img alt="portifolio" src="https://ik.imagekit.io/atnyozbx9v/portfinal_a7keFR07UJ.jpg"></a>
+<a>
 <img alt="gifportifolio" src="https://ik.imagekit.io/atnyozbx9v/Untitled-Project-_-Made-with-Clipchamp-_1__dAOTYTXDc.gif">
 </a>
 
