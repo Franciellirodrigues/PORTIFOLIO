@@ -22,8 +22,8 @@ Layout
   
 <img alt="portifolio" src="https://ik.imagekit.io/atnyozbx9v/5b4ae6caf53640619c648b39dd5bc9ec_25_1600_bQWm_CIgo.jpg">
 
-<h2> <img alt="portifolio" src="https://ik.imagekit.io/atnyozbx9v/Untitled-Project-_-Made-with-Clipchamp-_3__9aQ25xOPu.gif">
-</h2>
+<img alt="gifportifolio" src="https://ik.imagekit.io/atnyozbx9v/Untitled-Project-_-Made-with-Clipchamp-_3__9aQ25xOPu.gif">
+
 </a>
 
 
