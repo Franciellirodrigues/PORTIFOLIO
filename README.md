@@ -23,7 +23,7 @@ Layout
 <img alt="portifolio" src="https://ik.imagekit.io/atnyozbx9v/portfinal_a7keFR07UJ.jpg"></a>
 
 <a>
-<img alt="gifportifolio" src="https://ik.imagekit.io/atnyozbx9v/Untitled-Project-_-Made-with-Clipchamp-_2__2A6N3bcXU.gif">
+<img alt="gifportifolio" src="https://ik.imagekit.io/atnyozbx9v/Untitled-Project-_-Made-with-Clipchamp-_2__2A6N3bcXU.gif?tr=w-1104,h-736,fo-auto">
 </a>
 
 
