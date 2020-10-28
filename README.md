@@ -20,8 +20,7 @@ Layout
   
 <img alt="portifolio" src="https://ik.imagekit.io/atnyozbx9v/5b4ae6caf53640619c648b39dd5bc9ec_25_1600_bQWm_CIgo.jpg">
 
-<video src=”https://ik.imagekit.io/atnyozbx9v/Untitled_Project___Made_with_Clipchamp__4__qdjJ0hdCw.mp4″ width=”300″ height=”150″ poster=”teste.jpg” controls> </video>
-
+<video src="https://ik.imagekit.io/atnyozbx9v/Untitled_Project___Made_with_Clipchamp__4__qdjJ0hdCw.mp4" width=”300″ height="150" poster="teste.jpg" controls> </video>
 
 
 </a>
