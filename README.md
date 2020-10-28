@@ -20,10 +20,11 @@ Layout
   
 <img alt="portifolio" src="https://ik.imagekit.io/atnyozbx9v/5b4ae6caf53640619c648b39dd5bc9ec_25_1600_bQWm_CIgo.jpg">
 
-<object width="425" height="350">
-<param name="movie" value="https://ik.imagekit.io/atnyozbx9v/Untitled_Project___Made_with_Clipchamp__4__qdjJ0hdCw.mp4" />
-<embed src="https://ik.imagekit.io/atnyozbx9v/Untitled_Project___Made_with_Clipchamp__4__qdjJ0hdCw.mp4" type="application/x-shockwave-flash" width="425" height="350" />
-</object>
+<video width="320" height="240" controls>
+  <source src="movie.mp4" type="https://ik.imagekit.io/atnyozbx9v/Untitled_Project___Made_with_Clipchamp__4__qdjJ0hdCw.mp4">
+  <source src="movie.ogg" type="https://ik.imagekit.io/atnyozbx9v/Untitled_Project___Made_with_Clipchamp__4__qdjJ0hdCw.mp4">
+  
+</video>
 
 
 
