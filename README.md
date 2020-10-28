@@ -20,11 +20,7 @@ Layout
   
 <img alt="portifolio" src="https://ik.imagekit.io/atnyozbx9v/5b4ae6caf53640619c648b39dd5bc9ec_25_1600_bQWm_CIgo.jpg">
 
-<video width="320" height="240" controls>
-  <source src="movie.mp4" type="https://ik.imagekit.io/atnyozbx9v/Untitled_Project___Made_with_Clipchamp__4__qdjJ0hdCw.mp4">
-  <source src="movie.ogg" type="https://ik.imagekit.io/atnyozbx9v/Untitled_Project___Made_with_Clipchamp__4__qdjJ0hdCw.mp4">
-  
-</video>
+[foo]: https://ik.imagekit.io/atnyozbx9v/Untitled_Project___Made_with_Clipchamp__4__qdjJ0hdCw.mp4  "Optional Title Here"
 
 
 
