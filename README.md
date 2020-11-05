@@ -35,10 +35,9 @@ Layout
 
 ### 💻 PROJETO
 
-Neste curso de web design, nós alunos de forma 100% prática a linguagem universal da internet: HTML/CSS e aplicaraplicamos nossos conhecimentos na construção de um PORTFOLIO ONLINE super elegante e RESPONSIVO, com versões para computador e celular. 
+Neste curso de web design, nós alunos de forma 100% prática aprendemos a linguagem universal da internet: HTML/CSS e aplicamos nossos conhecimentos na construção de um PORTFOLIO ONLINE super elegante e RESPONSIVO, com versões para computador e celular. 
 
-Além disso, este curso serviu como porta de entrada para outras linguagens de programação, como JAVASCRIPT e PHP, conhecimentos essenciais no mercado atual.
-
+Além disso, este curso serviu como porta de entrada para outras linguagens de programação, como JAVASCRIPT e PHP.
 
 
 
